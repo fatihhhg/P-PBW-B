@@ -3,12 +3,16 @@ Untuk memenuhi laporan praktikum Pemrograman Berbasis Web
 ![WhatsApp Image 2025-09-26 at 10 02 33 PM](https://github.com/user-attachments/assets/d2082179-4a36-41ce-8db3-c96534c1553f)
 
 Disusun Oleh:
+
 Muhammad Al Fatih (4523210135)
 
 Dosen:
 Bambang Riono Arsad, S.Kom., MMSI
+
 Teknik Informatika
+
 Fakultas Teknik 
+
 Universitas Pancasila
 
 ## Tujuan
@@ -35,6 +39,7 @@ Universitas Pancasila
 <img width="930" height="138" alt="image" src="https://github.com/user-attachments/assets/e06d4a96-7517-4b21-b722-8316856f3413" />
 5. Buat branch baru
 <img width="583" height="75" alt="image" src="https://github.com/user-attachments/assets/1afa0a07-e08f-4b38-9940-ca701f23c416" />
+
 6. Buat file baru di branch
 <img width="644" height="60" alt="image" src="https://github.com/user-attachments/assets/8690f389-0b5c-4d1a-ad70-6c16e93e7796" />
 7. Staging dan commit di branch
