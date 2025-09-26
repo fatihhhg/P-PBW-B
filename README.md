@@ -25,6 +25,7 @@ Universitas Pancasila
 1. Download dan Install Git
 ![WhatsApp Image 2025-09-26 at 10 17 22 PM](https://github.com/user-attachments/assets/c550fc62-0da9-42f1-a271-9f9f05bf7e5e)
 2. Buka Git Bash
+
 ![WhatsApp Image 2025-09-26 at 10 33 37 PM](https://github.com/user-attachments/assets/83287968-dbc8-487a-939c-455e5345730d)
 3. Konfigurasi nama dan email
 ![WhatsApp Image 2025-09-26 at 10 33 37 PM (1)](https://github.com/user-attachments/assets/d5153a19-5305-401b-b4af-3c14b23fd64b)
